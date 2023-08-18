@@ -1,14 +1,14 @@
-# StudyNotion Online Education Platform
+# Learn Dot Online Education Platform
 
 ![Main Page](img/web.PNG)
 ## Project Description
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
+Learn Dot is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## System Architecture
 
-The StudyNotion ed-tech platform consists of three main components: the front end, the
+Learn Dot ed-tech platform consists of three main components: the front end, the
 back end, and the database. The platform follows a client-server architecture, with the
 front end serving as the client and the back end and database serving as the server.
 
